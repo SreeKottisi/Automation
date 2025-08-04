@@ -1,4 +1,4 @@
-package com.sree.selenium.automation.trainingday2;
+package com.sree.selenium.automation.training.day2;
 
 import java.util.List;
 
