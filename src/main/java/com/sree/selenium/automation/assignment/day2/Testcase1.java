@@ -1,4 +1,4 @@
-package com.sree.selenium.automation.day2;
+package com.sree.selenium.automation.assignment.day2;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;

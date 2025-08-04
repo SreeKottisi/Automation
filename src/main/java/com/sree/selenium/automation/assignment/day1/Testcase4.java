@@ -1,16 +1,13 @@
-package com.sree.selenium.automation.day1;
+package com.sree.selenium.automation.assignment.day1;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.Wait;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Testcase3 {
+public class Testcase4 {
 	/**
 	 * Salesforce Login testing
 	 * 
@@ -27,7 +24,7 @@ public class Testcase3 {
 		UsernamField.sendKeys("sreelatha.kottisi413@agentforce.com");
 		// Thread.sleep(3000);
 		WebElement passwordField = driver.findElement(By.xpath("//*[@id=\"password\"]"));
-		passwordField.sendKeys("Sree9!Raj");
+		passwordField.sendKeys("Sree9!Raj1");
 		
 		WebElement loginButton = driver.findElement(By.xpath("//*[@id=\"Login\"]"));
 		loginButton.click();
