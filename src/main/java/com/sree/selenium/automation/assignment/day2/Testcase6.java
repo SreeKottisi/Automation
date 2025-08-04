@@ -3,7 +3,7 @@ package com.sree.selenium.automation.assignment.day2;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
-public class Testcase2 extends BaseTest {
+public class Testcase6 extends BaseTest {
 
 	public static void main(String[] args) throws Exception {
 

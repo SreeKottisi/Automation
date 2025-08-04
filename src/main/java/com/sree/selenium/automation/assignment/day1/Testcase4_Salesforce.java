@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Testcase4 {
+public class Testcase4_Salesforce {
 	/**
 	 * Salesforce Login testing
 	 * 

@@ -5,7 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-public class Testcase1 extends BaseTest {
+public class Testcase5 extends BaseTest {
 
 	public static void main(String[] args) throws Exception {
 

@@ -9,8 +9,11 @@ import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
+/*
+ * login.salesforce.com login page
+ */
 
-public class Testcase3 {
+public class Testcase3_Salesforce {
 	/**
 	 * Salesforce Login testing
 	 * 

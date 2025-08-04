@@ -1,4 +1,4 @@
-package com.sree.selenium.automation.assignment.day1;
+package com.sree.selenium.automation.training.day1;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
